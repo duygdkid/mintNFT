@@ -1,0 +1,344 @@
+﻿1 | 2511 | 830 | 0 | Keypress Ctrl+ | t
+
+
+
+
+
+
+
+2 | 2320 | 703 | 0 | Keypress %string%
+
+
+
+
+
+
+
+3 | 2551 | 822 | 0 | Keypress %integer%
+
+
+
+
+
+
+
+4 | 2523 | 838 | 0 | Keypress %string1%
+
+
+
+
+
+
+
+5 | 2320 | 703 | 0 | Keypress enter
+
+
+
+
+
+
+
+6 | RUN ACTION | WAIT SECONDS | +10
+
+
+
+
+
+
+
+10 | 2546 | 862 | 0 | Keypress tab
+
+
+
+53 | 1045 | 329 | 64 | Keypress tab
+
+
+
+54 | 1045 | 329 | 50 | Keypress tab
+
+
+
+55 | 1045 | 329 | 53 | Keypress tab
+
+55 | 1045 | 329 | 53 | Keypress tab
+
+
+
+56 | 1045 | 329 | 50 | Keypress tab
+
+
+
+57 | 1045 | 329 | 60 | Keypress tab
+
+
+
+58 | 1045 | 329 | 69 | Keypress tab
+
+
+
+58 | 1045 | 329 | 69 | Keypress tab
+
+
+
+58 | 1045 | 329 | 69 | Keypress tab
+
+
+
+58 | 1045 | 329 | 69 | Keypress tab
+
+
+
+58 | 1045 | 329 | 69 | Keypress tab
+
+
+
+58 | 1045 | 329 | 69 | Keypress tab
+
+
+
+
+7 | 2546 | 862 | 0 | Keypress %decimal%
+
+
+
+24 | 1013 | 313 | 1829 | Keypress tab
+
+
+
+25 | 1013 | 313 | 625 | Keypress tab
+
+
+
+26 | 1013 | 313 | 946 | Keypress tab
+
+
+
+27 | 1013 | 313 | 410 | Keypress tab
+
+
+
+28 | 1013 | 313 | 447 | Keypress tab
+
+
+
+29 | 1013 | 313 | 395 | Keypress tab
+
+
+
+30 | 1013 | 313 | 475 | Keypress tab
+
+
+
+31 | 1013 | 313 | 424 | Keypress tab
+
+
+
+32 | 1013 | 313 | 149 | Keypress space
+
+
+
+33 | 1013 | 313 | 588 | Keypress enter
+
+
+
+34 | 1013 | 313 | 424 | Keypress tab
+
+
+
+35 | 1013 | 313 | 422 | Keypress tab
+
+
+
+36 | 1013 | 313 | 355 | Keypress tab
+
+
+
+37 | 1013 | 313 | 366 | Keypress tab
+
+
+
+38 | 1013 | 313 | 358 | Keypress tab
+
+
+
+39 | 1013 | 313 | 371 | Keypress tab
+
+
+
+40 | 1013 | 313 | 362 | Keypress tab
+
+
+
+41 | 1013 | 313 | 357 | Keypress tab
+
+
+
+42 | 1013 | 313 | 359 | Keypress tab
+
+
+
+43 | 1013 | 313 | 405 | Keypress tab
+
+
+
+44 | 1013 | 313 | 390 | Keypress tab
+
+
+
+45 | 1013 | 313 | 368 | Keypress tab
+
+
+
+46 | 1013 | 313 | 387 | Keypress tab
+
+
+
+47 | 1013 | 313 | 367 | Keypress tab
+
+
+
+48 | 1013 | 313 | 405 | Keypress tab
+
+
+
+49 | 1013 | 313 | 697 | Keypress tab
+
+
+
+50 | 1013 | 313 | 669 | Keypress tab
+
+
+
+51 | 1013 | 313 | 1319 | Keypress tab
+
+
+
+52 | 1013 | 313 | 415 | Keypress tab
+
+
+
+53 | 1013 | 313 | 418 | Keypress tab
+
+
+
+54 | 1013 | 313 | 408 | Keypress tab
+
+
+
+55 | 1013 | 313 | 369 | Keypress tab
+
+
+
+56 | 1013 | 313 | 423 | Keypress tab
+
+
+
+57 | 1013 | 313 | 118 | Keypress tab
+
+
+
+58 | 1013 | 313 | 224 | Keypress enter
+
+
+
+59 | 1013 | 313 | 1931 | Keypress tab
+
+
+
+60 | 1013 | 313 | 524 | Keypress tab
+
+
+
+61 | 1013 | 313 | 1091 | Keypress tab
+
+
+
+62 | 1013 | 313 | 1283 | Keypress enter
+
+
+
+
+
+
+
+32 | RUN ACTION | WAIT SECONDS | +5
+
+66 | 708 | 613 | 6762 | Keypress tab
+
+67 | 708 | 613 | 1052 | Keypress tab
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+68 | 708 | 613 | 492 | Keypress down
+
+69 | 708 | 613 | 1958 | Keypress tab
+
+70 | 708 | 613 | 1639 | Keypress tab
+
+71 | 708 | 613 | 2260 | Keypress enter
+
+
+
+32 | RUN ACTION | WAIT SECONDS | +5
+
+
+
+
+
+
+
+33 | 1330 | -932 | 0 | Keypress Ctrl+ | w
+
+
+
+
+
+
+
+34 | RUN ACTION | DEFINE INTEGER VARIABLE | %INTEGER%::+1
